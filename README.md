@@ -1,3 +1,2 @@
-# first_cnn
-张思选真帅
-你看啥看
+# Bearing_cnn
+轴承剩余寿命预测
